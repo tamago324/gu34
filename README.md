@@ -2,6 +2,7 @@
 
 horizon プラグインを使ってボトムプレートとトッププレートを生成した
 
+![](./assets/kicad_pcb.png)
 
 ## LICENSE
 
