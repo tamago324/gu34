@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "gu34")(type "KiCad")(uri "${KIPRJMOD}/gu34.pretty")(options "")(descr ""))
+)
