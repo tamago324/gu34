@@ -1,7 +1,7 @@
 M48
-; DRILL file {KiCad (6.0.11)} date 2023年05月11日 00時11分38秒
+; DRILL file {KiCad (6.0.11)} date 2023年05月16日 20時57分37秒
 ; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2023-05-11T00:11:38+09:00
+; #@! TF.CreationDate,2023-05-16T20:57:37+09:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,(6.0.11)
 ; #@! TF.FileFunction,MixedPlating,1,2
 FMAT,2
