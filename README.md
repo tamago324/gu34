@@ -4,6 +4,14 @@ horizon プラグインを使ってボトムプレートとトッププレート
 
 ![](./assets/kicad_pcb.png)
 
+![](./assets/readme_1.JPG)
+![](./assets/readme_2.JPG)
+![](./assets/readme_3.jpeg)
+
 ## LICENSE
 
-商用利用だめ
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス</a>の下に提供されています。
+
+> 表示 — あなたは 適切なクレジットを表示し、ライセンスへのリンクを提供し、変更があったらその旨を示さなければなりません。これらは合理的であればどのような方法で行っても構いませんが、許諾者があなたやあなたの利用行為を支持していると示唆するような方法は除きます。
+>
+> 非営利 — あなたは営利目的でこの資料を利用してはなりません。
